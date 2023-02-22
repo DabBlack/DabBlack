@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate young developer from Córdoba, Spain</h3>
-<p>- 🌱 I’m currently learning CFGS of Web applications development</p>
+<p>- 🌱 I’m currently learning CFGS of Web Applications Development</p>
 <p>- 📫 You can reach me on davidalgar2@gmail.com</p>
 
 <h3 align="left">Languages and Tools:</h3>
